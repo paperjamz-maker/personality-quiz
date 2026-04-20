@@ -75,6 +75,7 @@ const questions = [
 
 
 function showQuestion() {
+  script.js
   const q = questions[current];
 
   document.getElementById("app").innerHTML = `
