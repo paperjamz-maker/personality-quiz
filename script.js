@@ -3,7 +3,8 @@ let current = 0;
 let score = {
   cute: 0,
   spicy: 0,
-  dramatic: 0
+  dramatic: 0,
+  smart: 0
 };
   
 
